@@ -12,5 +12,6 @@ public class MainActivity extends Activity {
       /*  VideoListFragment videoListFragment= new VideoListFragment();
         videoListFragment.setVideoList(MainActivity.this);
         getFragmentManager().beginTransaction().replace(R.id.main_layout,videoListFragment).commit();*/
+
     }
 }
